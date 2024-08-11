@@ -1,0 +1,2 @@
+# Optimizing-Electric-Vehicle-Charging-Using-Reinforcement-Learning
+This project leverages reinforcement learning to optimize electric vehicle (EV) charging schedules. By analyzing historical charging data, weather, and traffic patterns, the model minimizes energy costs and balances grid loads. It efficiently determines the best times to charge EVs, ensuring grid stability and reducing energy expenses.
